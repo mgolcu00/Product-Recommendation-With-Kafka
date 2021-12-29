@@ -1,0 +1,148 @@
+[
+    {
+        "input": [
+            "003574"
+        ],
+        "output": [
+            "833536"
+        ],
+        "support": 0.3,
+        "confidence": 0.8571
+    },
+    {
+        "input": [
+            "177863"
+        ],
+        "output": [
+            "833536"
+        ],
+        "support": 0.35,
+        "confidence": 1
+    },
+    {
+        "input": [
+            "234436"
+        ],
+        "output": [
+            "833536"
+        ],
+        "support": 0.35,
+        "confidence": 0.875
+    },
+    {
+        "input": [
+            "370703"
+        ],
+        "output": [
+            "447209"
+        ],
+        "support": 0.3,
+        "confidence": 0.8571
+    },
+    {
+        "input": [
+            "370703"
+        ],
+        "output": [
+            "833536"
+        ],
+        "support": 0.3,
+        "confidence": 0.8571
+    },
+    {
+        "input": [
+            "657829"
+        ],
+        "output": [
+            "833536"
+        ],
+        "support": 0.35,
+        "confidence": 0.875
+    },
+    {
+        "input": [
+            "261429"
+        ],
+        "output": [
+            "833536"
+        ],
+        "support": 0.35,
+        "confidence": 0.875
+    },
+    {
+        "input": [
+            "647074"
+        ],
+        "output": [
+            "833536"
+        ],
+        "support": 0.4,
+        "confidence": 0.8889
+    },
+    {
+        "input": [
+            "833536",
+            "234436"
+        ],
+        "output": [
+            "657829"
+        ],
+        "support": 0.3,
+        "confidence": 0.8571
+    },
+    {
+        "input": [
+            "833536",
+            "657829"
+        ],
+        "output": [
+            "234436"
+        ],
+        "support": 0.3,
+        "confidence": 0.8571
+    },
+    {
+        "input": [
+            "234436",
+            "657829"
+        ],
+        "output": [
+            "833536"
+        ],
+        "support": 0.3,
+        "confidence": 1
+    },
+    {
+        "input": [
+            "447209",
+            "647074"
+        ],
+        "output": [
+            "833536"
+        ],
+        "support": 0.3,
+        "confidence": 1
+    },
+    {
+        "input": [
+            "833536",
+            "805529"
+        ],
+        "output": [
+            "647074"
+        ],
+        "support": 0.3,
+        "confidence": 0.8571
+    },
+    {
+        "input": [
+            "805529",
+            "647074"
+        ],
+        "output": [
+            "833536"
+        ],
+        "support": 0.3,
+        "confidence": 0.8571
+    }
+]
