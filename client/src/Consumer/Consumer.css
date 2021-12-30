@@ -1,0 +1,27 @@
+container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+message {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+message send {
+  color: green;
+  align-self: flex-end;
+}
+message received {
+  color: blue;
+    align-self: flex-start;
+}
+
+textbox {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+buttonsend {
+  margin-left: 1rem;
+}

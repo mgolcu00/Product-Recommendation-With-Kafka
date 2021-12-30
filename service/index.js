@@ -23,9 +23,9 @@ const topic_card = 'topic-card-1'
 const group_id = 'card-group-2'
 const event_name = 'card-event-1'
 
-const topic_card2 = 'topic-card-2'
-const group_id2 = 'card-group-3'
-const event_name2 = 'card-event-2'
+// const topic_card2 = 'topic-card-2'
+// const group_id2 = 'card-group-3'
+// const event_name2 = 'card-event-2'
 
 instance.fetch(topic_card, group_id, event_name, (err, res) => {
     if (err) {
@@ -38,13 +38,8 @@ instance.fetch(topic_card, group_id, event_name, (err, res) => {
         console.log(skus);
         pre(skus, (data) => {
             console.log(data);
-            //instance.kafkaServer.fileProduce(data, topic_card2)
-           // instance.sendIo(event_name2, data.toString())
         })
 
-        // pre(parsed.value.split(','), (data) => {
-        //     console.log(data);
-        // })
     }
 })
 

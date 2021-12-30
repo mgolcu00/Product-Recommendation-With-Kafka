@@ -1,0 +1,152 @@
+[
+    {
+        "sku": "289435",
+        "name": "Yumurta",
+        "price": "17",
+        "image": "https://www.pngkit.com/png/full/17-175222_eggs-carton-png-crate-of-eggs-png.png"
+    },
+    {
+        "sku": "004844",
+        "name": "Pirinc",
+        "price": "20",
+        "image": "https://st2.myideasoft.com/idea/bi/33/myassets/products/037/baldo-pirinc_min.png?revision=1457621733"
+    },
+    {
+        "sku": "805529",
+        "name": "Tavuk",
+        "price": "30",
+        "image": "https://static.happycenter.com.tr/Uploads/tg.kasp.erpil.ksp.007-14353-500x500.png"
+    },
+    {
+        "sku": "884758",
+        "name": "Makarna",
+        "price": "5",
+        "image": "https://filizmakarna.com.tr/wp-content/uploads/2020/09/filiz-makarna-fiyonk-paket-gorseli-200x300-1.png"
+    },
+    {
+        "sku": "161011",
+        "name": "Cikolata",
+        "price": "5",
+        "image": "https://www.nestleprofessional.com.tr/sites/g/files/gfb361/f/styles/product/public/media/nestle_classic_sutlu80g3d.png?itok=os515TUX"
+    },
+    {
+        "sku": "177863",
+        "name": "Gofret",
+        "price": "7",
+        "image": "https://st1.myideasoft.com/idea/el/24/myassets/products/503/ulker-cikolatali-gofret-36-39gr_min.png?revision=1599555029"
+    },
+    {
+        "sku": "261429",
+        "name": "Ton Balıgı",
+        "price": "45",
+        "image": "https://www.marketimgeldi.com/Uploads/UrunResimleri/buyuk/dardanel-ton-balik-tekli---80gr.-32b9.png"
+    },
+    {
+        "sku": "219879",
+        "name": "Kurabiye",
+        "price": "8",
+        "image": "https://static.happycenter.com.tr/Uploads/kg-atis-ulker-bsk-274-75791-500x500.png"
+    },
+    {
+        "sku": "729233",
+        "name": "Un",
+        "price": "7",
+        "image": "https://www.soke.com.tr/Files/urun-resimleri/big/soke-geleneksel-un-2kg.png"
+    },
+    {
+        "sku": "510959",
+        "name": "Sampuan",
+        "price": "25",
+        "image": "https://www.clearhaircare.com/content/dam/unilever/clear/turkey/pack_shot/8690637936753-1816351-png.png"
+    },
+    {
+        "sku": "833536",
+        "name": "Dis Macunu",
+        "price": "25",
+        "image": "https://st3.myideasoft.com/idea/el/24/myassets/products/407/signal-white-now-dis-macunu-75ml-1.png?revision=1600760124"
+    },
+    {
+        "sku": "225782",
+        "name": "Et",
+        "price": "90",
+        "image": "https://fatihistegelsin.com/image/cache/catalog/akdeniz%20toros/aaaaa-01-550x550w.png"
+    },
+    {
+        "sku": "333091",
+        "name": "Sut",
+        "price": "7",
+        "image": "https://www.sek.com.tr/SEK/media/SEK/pastorize/list/SEK_GUNLUK_CAM_1L_260x260px.png?ext=.png"
+    },
+    {
+        "sku": "370703",
+        "name": "Defter",
+        "price": "20",
+        "image": "https://i1.wp.com/arazidepo.s3.eu-west-1.amazonaws.com/wp-content/uploads/2016/03/27163258/Gipta_aqua_neon_003.png?fit=600%2C600&ssl=1"
+    },
+    {
+        "sku": "234436",
+        "name": "Kalem",
+        "price": "20",
+        "image": "https://w7.pngwing.com/pngs/203/891/png-transparent-faber-castell-grip-plus-07-ball-pen-mechanical-pencil-ballpoint-pen-pen.png"
+    },
+    {
+        "sku": "568690",
+        "name": "Ekmek",
+        "price": "5",
+        "image": "https://www.uno.com.tr/sites/1/upload/images/m/cavdarli_Koruyucu-Katki-icermez-3029.png"
+    },
+    {
+        "sku": "003574",
+        "name": "Peynir",
+        "price": "35",
+        "image": "https://www.pinar.com.tr/images/2020/urunler/suzme_peynir_1000g.png"
+    },
+    {
+        "sku": "447209",
+        "name": "Deterjan",
+        "price": "35",
+        "image": "https://static.happycenter.com.tr/Uploads/ariel-toz-camasir-deterjani-dag-esintisi-45-kg-17256-500x500.png"
+    },
+    {
+        "sku": "080260",
+        "name": "Dergi",
+        "price": "10",
+        "image": "https://1.bp.blogspot.com/-zB7Yp3oTq-4/XoXxsR8p7vI/AAAAAAAAA48/hYQqYxm2exEiwsvdHx0RPrjD0YZnRcumACLcBGAsYHQ/s1600/national_geographic-nisan-2020.png"
+    },
+    {
+        "sku": "160859",
+        "name": "Yoğurt",
+        "price": "20",
+        "image": "https://st3.myideasoft.com/idea/gb/84/myassets/products/136/2000g-kaymaksiz-fsiz_min.png?revision=1599551438"
+    },
+    {
+        "sku": "647074",
+        "name": "Salam",
+        "price": "7",
+        "image": "https://eng.pinar.com.tr/images/urunler/et-sarkuteri/hindi-salam.png"
+    },
+    {
+        "sku": "864769",
+        "name": "Sabun",
+        "price": "12",
+        "image": "https://www.pngfind.com/pngs/m/75-753843_dove-bar-soap-white-beauty-hd-png-download.png"
+    },
+    {
+        "sku": "700195",
+        "name": "Sucuk",
+        "price": "45",
+        "image": "https://static.happycenter.com.tr/Uploads/tg-stlk-duzey-upk-E5305-500x500.png"
+    },
+    {
+        "sku": "093808",
+        "name": "Sosis",
+        "price": "23",
+        "image": "https://www.maret.com.tr/ws/app_images/06b81724c2304ac9be275552ff116b3f.png"
+    },
+    {
+        "sku": "657829",
+        "name": "Dis Fırcası",
+        "price": "20",
+        "image": "https://www.disbeyazlat.net/image/cache/catalog/signal-dikey-temizlik-dis_fircasi1-550x550h.png"
+    }
+]
